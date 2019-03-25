@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gocolly/colly"
 	"strconv"
-	"strings"	
+	"strings"
 )
 
 type TipoCambio struct {

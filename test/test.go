@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	// SBS
+	// SBS 
 	cambioDia := sbs.Cambio()
 	println(cambioDia.Fecha)
 	println(cambioDia.Compra)
